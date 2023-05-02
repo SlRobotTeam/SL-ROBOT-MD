@@ -1,7 +1,7 @@
 const { tlang,addCommand } = require('../../lib')
 const Config = require('../../config')
 const axios = require('axios')
-const url = 'https://gist.github.com/pasiya3171/afc27b84f4226765aeca94306bf08031.js'
+const url = 'https://raw.githubusercontent.com/pasindu12345678/Pasindu-Plugins/main/plugins/bgm/bgm.js'
 /*
 Set Your Own db url.
 I can't find more bgm if you have please provide us in Support Group.
