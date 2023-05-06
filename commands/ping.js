@@ -21,6 +21,6 @@ Secktor.cmd({
         var inital = new Date().getTime();
         await citel.reply('```Ping!!!```');
         var final = new Date().getTime();
-        return await citel.reply('*_PasinduLk_* *Pong*\n *' + (final - inital) + ' ms* ');
+        return await citel.reply('*𝙳𝙰𝚁𝙺-𝙽𝙴𝚁𝙾-𝙱𝙾𝚃* *Pong*\n *' + (final - inital) + ' ms* ');
     }
 );
