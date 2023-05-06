@@ -71,13 +71,12 @@ hirunews = await axios.get(`https://api.sdbots.tk/hirunews`)
 
        return Void.sendMessage(citel.chat, {
 
-                document: {
+                image: {
 
-                    url: hirunews.data.img ,
+                    url: hirunews.data.img,
 
                 },
 
-                mimetype: "application/vnd.android.package-archive",
                 caption: "*ᴛɪᴛʟᴇ :* ${hirunews.data.title}\n\n*ᴅᴀᴛᴇ :* ${hirunews.data.date}\n\n*ʟɪɴᴋ :* ${hirunews.data.link}\n\n*ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ :* ${hirunews.data.description}\n\n*ᴅᴀʀᴋ ᴀɴɢᴇʟ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*",
 
 
