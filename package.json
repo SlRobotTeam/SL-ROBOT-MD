@@ -1,7 +1,7 @@
 {
-               "name": "Secktor-Md",
+               "name": "Dark-Angel",
                "version": "0.0.6",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by Nimesh Official.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
