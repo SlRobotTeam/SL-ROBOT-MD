@@ -18,9 +18,9 @@ cmd({
 
 const apkdl = await fetchJson(`https://darkalphaxteam-official-api.cyclic.app/api/download/apk?packagename=${text}&apikey=prabath`)
             citel.reply (`*Hello ${citel.pushName} I Am Finding Your Apk*`);
-const applink = apkdl.data.dllink
-const getname = apkdl.data.name
-const lastupdate = apkdl.data.lastup
+const applink = apkdl.data.result.dllink
+const getname = apkdl.data.result.name
+const lastupdate = apkdl.data.result.lastup
 
        return Void.sendMessage(citel.chat, {
 
