@@ -1,7 +1,7 @@
   <p align="center">  
-  <a href="https://replit.com/@pasindusehan2/PasinduLk-Md?v=1/">
-    <img alt="secktor docs" height="300" src="https://i.imgur.com/OAG7Evu.jpg">
-    <h1 align="center">Pasindu MD Whatsapp bot</h1>
+  <a href="">
+    <img alt="dark angel background" height="300" src="https://i.ibb.co/6tYcPZH/IMG-20230420-WA0055.jpg">
+    <h1 align="center">Dark Angel Whatsapp bot</h1>
   </a>
 </p>
    
@@ -11,7 +11,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
-  <a aria-label="Pasindu is free to use" href="https://github.com/PasiduLk/Pasindu-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Dark Angel is free to use" href="Your details/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
@@ -22,8 +22,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="Pasindu :: Visitor's Count" /></p>
 
   <p align="center"> Introducing Pasindu,Pasindu is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
- 
- ***<p align="center"> Support us by subscribing our channel </p>***
  
 1. ***Get [SESSION-ID](https://replit.com/@pasindusehan2/PasinduLk-Md?v=1/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap) | [Tutorial](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap).***
