@@ -25,15 +25,6 @@
  
  ***<p align="center"> Support us by subscribing our channel </p>***
  
-   <p align="center">  
-  <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://i.imgur.com/OAG7Evu.jpg">
-    <h1 align="center">Tap on above Image</h1>
-  </a>
-</p>
- 
- 
--
 1. ***Get [SESSION-ID](https://replit.com/@pasindusehan2/PasinduLk-Md?v=1/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap) | [Tutorial](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap).***
 3.  ***Click [FORK](https://github.com/PasiduLk/Pasindu-Md/fork)***
