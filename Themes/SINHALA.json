@@ -6,11 +6,11 @@
   "STRINGS": {
       "updater": {
           "UPDATE": "*Your bot is already on latest version Sir*",
-          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
-          "UPDATED_LOCAL": "*Successfully Updated!*"
+          "NEW_UPDATE": "*⫷ ᴅᴀʀᴋ ᴀɴɢᴇʟ ʙᴏᴛ වෙත නව යාවත්කාලීන කීරීමක් ඇත ⫸*\n\n*_වෙනස් කිරීම්_:*\n",
+          "UPDATED_LOCAL": "*⫷ ᴅᴀʀᴋ ᴀɴɢᴇʟ ʙᴏᴛ යාවත්කාලින කිරීම සම්පූර්ණයි!⫸*"
       },
       "global": {
-          "botName": "*Dark Angel* Made By *_Pasindu_*",
+          "botName": "*ᴅᴀʀᴋ ᴀɴɢᴇʟ* ᴘᴏᴡᴇʀᴇᴅ ʙʏ◉*_ᴄʏʙᴇʀ ʏᴀᴋᴜᴢᴀ ᴛᴇᴀᴍ_*",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir",
           "pic1": "https://i.ibb.co/6tYcPZH/IMG-20230420-WA0055.jpg",
