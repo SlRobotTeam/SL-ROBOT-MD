@@ -19,8 +19,8 @@ Secktor.cmd({
     },
     async(Void, citel) => {
         var inital = new Date().getTime();
-        await citel.reply('```Ping!!!```');
+        await citel.reply('*ᴛᴇꜱᴛɪɴɢ _ᴘɪɴɢ_*');
         var final = new Date().getTime();
-        return await citel.reply('*𝙳𝙰𝚁𝙺-𝙽𝙴𝚁𝙾-𝙱𝙾𝚃* *Pong*\n *' + (final - inital) + ' ms* ');
+        return await citel.reply('*𝙳𝙰𝚁𝙺-𝙽𝙴𝚁𝙾-𝙱𝙾𝚃* *_ꜱᴘᴇᴇᴅ_*\n *' + (final - inital) + ' ᴍꜱ* ');
     }
 );
