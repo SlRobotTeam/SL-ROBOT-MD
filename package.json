@@ -1,7 +1,7 @@
 {
-               "name": "Dark-Angel",
+               "name": "DarkNero",
                "version": "0.0.6",
-               "description": "Multi device whatsapp bot by Nimesh Official.",
+               "description": "Multi device whatsapp bot by SamPandey001.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
