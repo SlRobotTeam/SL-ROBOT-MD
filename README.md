@@ -25,8 +25,7 @@
  
 1. ***Get [SESSION-ID](https://replit.com/@pasindusehan2/PasinduLk-Md?v=1/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap) | [Tutorial](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap).***
-3.  ![forks](https://img.shields.io/github/forks/SlRobotTeam/New-bot-v1?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/SlRobotTeam/New-bot-v1?style=social)
+3.  <a href="https://github.com/SlRobotTeam/New-bot-v1/fork"><img title="SlRobot" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
 4.  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FSlRobotTeam%2FNew-bot-v1)
 
 5. ***[Deploy on Koyeb](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap)*** .
