@@ -26,7 +26,7 @@
 1. ***Get [SESSION-ID](https://replit.com/@pasindusehan2/PasinduLk-Md?v=1/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap) | [Tutorial](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap).***
 3.  ***Click [FORK](https://github.com/PasiduLk/Pasindu-Md/fork)***
-4.  ***Deploy on [Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FSlRobotTeam%2FNew-bot-v1)***
+4.  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FSlRobotTeam%2FNew-bot-v1)
 
 5. ***[Deploy on Koyeb](https://www.youtube.com/watch?v=X_MqLUIhEeI&ab_channel=PsDelZap)*** .
 
