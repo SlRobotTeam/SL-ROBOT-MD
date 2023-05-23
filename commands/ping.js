@@ -21,6 +21,6 @@ Secktor.cmd({
         var inital = new Date().getTime();
         await citel.reply('*ᴛᴇꜱᴛɪɴɢ _ᴘɪɴɢ_*');
         var final = new Date().getTime();
-        return await citel.reply('*𝙳𝙰𝚁𝙺-𝙽𝙴𝚁𝙾-𝙱𝙾𝚃* *_ꜱᴘᴇᴇᴅ_*\n *' + (final - inital) + ' ᴍꜱ* ');
+        return await citel.reply('*𝑺𝑳 𝑹𝑶𝑩𝑶𝑻 𝑴𝑫 🆂🅿🅴🅴🅳*\n *' + (final - inital) + ' ᴍꜱ* ');
     }
 );
