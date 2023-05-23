@@ -1,16 +1,16 @@
 {
   "__JSON__": true,
-  "AUTHOR": "Dark Angel",
+  "AUTHOR": "𝑺𝑳-𝑹𝑶𝑩𝑶𝑻-𝑴𝑫",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
       "updater": {
           "UPDATE": "*Your bot is already on latest version Sir*",
-          "NEW_UPDATE": "*⫷ ᴅᴀʀᴋ ᴀɴɢᴇʟ ʙᴏᴛ වෙත නව යාවත්කාලීන කීරීමක් ඇත ⫸*\n\n*_වෙනස් කිරීම්_:*\n",
-          "UPDATED_LOCAL": "*⫷ ᴅᴀʀᴋ ᴀɴɢᴇʟ ʙᴏᴛ යාවත්කාලින කිරීම සම්පූර්ණයි!⫸*"
+          "NEW_UPDATE": "*⫷ 𝐒ᴸ𝐑ᴼ𝐁ᴼ𝐓ᴹ𝐃 𝑩𝑶𝑻 වෙත නව යාවත්කාලීන කීරීමක් ඇත ⫸*\n\n*_වෙනස් කිරීම්_:*\n",
+          "UPDATED_LOCAL": "*⫷ 𝐒ᴸ𝐑ᴼ𝐁ᴼ𝐓ᴹ𝐃 𝑩𝑶𝑻 යාවත්කාලින කිරීම සම්පූර්ණයි!⫸*"
       },
       "global": {
-          "botName": "*ᴅᴀʀᴋ ᴀɴɢᴇʟ* ᴘᴏᴡᴇʀᴇᴅ ʙʏ◉*_ᴄʏʙᴇʀ ʏᴀᴋᴜᴢᴀ ᴛᴇᴀᴍ_*",
+          "botName": "*𝐒ᴸ𝐑ᴼ𝐁ᴼ𝐓ᴹ𝐃 𝑩𝑶𝑻*ⓅⓄⓌⒺⓇⒺⒹ ⒷⓎ◉*_🆂🅻 🆁🅾🅱🅾🆃 🆃🅴🅰🅼_*",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir",
           "pic1": "https://i.ibb.co/6tYcPZH/IMG-20230420-WA0055.jpg",
@@ -21,7 +21,7 @@
           "pic6": "https://i.ibb.co/6tYcPZH/IMG-20230420-WA0055.jpg",
           "pic7": "https://i.ibb.co/6tYcPZH/IMG-20230420-WA0055.jpg",
            "greet" : "Sir",
-         "dotbody" : "I'm Alive.",
+         "dotbody" : "💞රත්තරන්💞මම දැන් ඔන්ලයින් හැබැයි මාව ඉන්බේක්ස් පාවිච්චි කරන්න එපා හරිද 💗පැටියෝ💗",
           "promote": "Admin Role Given to my Darling",
           "pmallow": "*Hii,This is Dark Angel*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
           "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by *Dark Angel*_",
@@ -32,9 +32,9 @@
           "antlink": "Link Detected.\n*Good Bye Sir*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Secktor*",
           "mention": " Please mention any user Sir",
-          "title": "*Dark Angel*",
-          "footer": "*Dark Angel*",
-          "by": "Made by: *CitelVoid*",
+          "title": "*𝐒ᴸ𝐑ᴼ𝐁ᴼ𝐓ᴹ𝐃*",
+          "footer": "*𝐒ᴸ𝐑ᴼ𝐁ᴼ𝐓ᴹ𝐃*",
+          "by": "Made by: *🆂🅻 🆁🅾🅱🅾🆃 🆃🅴🅰🅼*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
           "dot": "Did you mean *help?*",
