@@ -1,9 +1,9 @@
 {
-  "name": "DARK-ANGEL",
+  "name": "SL ROBOT MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/6tYcPZH/IMG-20230420-WA0055.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
-  "repository": "https://github.com/SlRobotTeam/New-bot-v1",
+  "repository": "https://github.com/SlRobotTeam/SL-ROBOT-MD",
   "success_url": "/",
   "stack": "container",
 "env": {
